@@ -11,7 +11,7 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 
  - **Visual Studio Code:** Um editor de código fonte altamente configurável, construído para desenvolvimento eficiente.
 
- - **Extension Pack for Java:** Um conjunto de extensões para o VSCode que oferece suporte ao desenvolvimento em Java, incluindo funcionalidades como realce de sintaxe, completude de código, depuração e gerenciamento de dependências.
+ - **Extension Pack for Java**: Um conjunto de extensões para o VSCode que oferece suporte ao desenvolvimento em Java. Você pode instalar a extensão diretamente no Visual Studio Code [aqui](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack).
 
 ## Configuração Inicial
 
